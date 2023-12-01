@@ -106,13 +106,13 @@ body {
 	color: #000;
 }
 .nav-link.active-tag {
-	color: #fff;
+	color: black;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
 
 .nav-link.active.active-tag{
-	color: #fff;
+	color: black;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
